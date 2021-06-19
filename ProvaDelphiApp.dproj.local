@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/28 15:28:05.000.329,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/28 16:15:42.000.366,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/28 16:17:37.000.463,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/28 16:27:21.000.324,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/01 08:49:57.000.893,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/18 22:34:34.000.858,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/18 22:36:43.000.581,C:\Sistemas\ProvaDelphiApp2\uProvaDelphiApp.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/06/18 22:36:43.000.581,C:\Sistemas\ProvaDelphiApp2\uProvaDelphiApp.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/18 22:36:59.000.249,C:\Sistemas\ProvaDelphiApp2\ProvaDelphiApp.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/06/18 22:39:18.000.007,=C:\Sistemas\ProvaDelphiApp2\Unit1.pas</Transaction>
+    <Transaction>2021/06/18 22:39:42.000.919,C:\Sistemas\ProvaDelphiApp2\ufTarefa1.dfm=C:\Sistemas\ProvaDelphiApp2\Unit1.dfm</Transaction>
+    <Transaction>2021/06/18 22:39:42.000.919,C:\Sistemas\ProvaDelphiApp2\ufTarefa1.pas=C:\Sistemas\ProvaDelphiApp2\Unit1.pas</Transaction>
+    <Transaction>2021/06/18 23:23:21.000.119,C:\Sistemas\ProvaDelphiApp2\ufTarefa2.pas=C:\Sistemas\ProvaDelphiApp2\ufTarefa1.pas</Transaction>
+    <Transaction>2021/06/18 23:23:21.000.119,C:\Sistemas\ProvaDelphiApp2\ufTarefa2.dfm=C:\Sistemas\ProvaDelphiApp2\ufTarefa1.dfm</Transaction>
+    <Transaction>2021/06/18 23:23:37.000.488,C:\Sistemas\ProvaDelphiApp2\ufTarefa3.pas=C:\Sistemas\ProvaDelphiApp2\ufTarefa2.pas</Transaction>
+    <Transaction>2021/06/18 23:23:37.000.488,C:\Sistemas\ProvaDelphiApp2\ufTarefa3.dfm=C:\Sistemas\ProvaDelphiApp2\ufTarefa2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
